@@ -3,6 +3,7 @@
 Features
 
 Organizes files by type:
+
 .py → Python Scripts
 .txt → Text Files
 .mp4, .mkv → Media Files
