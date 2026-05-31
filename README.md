@@ -1,3 +1,5 @@
 # Python-File-Organizer-Media-Dashboard
 
-Features\nOrganizes files by type:\n.py → Python Scripts\n.txt → Text Files\n.mp4, .mkv → Media Files\n.jpg, .png → Images\nMoves files to desired directories\nCreates folders dynamically if they do not exist\nSupports file and directory cleanup operations
+A Python-based automation tool designed to manage and organize files within a system while simulating basic media server monitoring functionality.
+
+This project was built to practice real-world IT scripting concepts including file system operations, automation, and command-line interaction.
